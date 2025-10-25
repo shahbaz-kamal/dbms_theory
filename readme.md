@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="400" src="https://github.com/shahbaz-kamal/interview-prep-hubs/blob/main/assests/banner.jpg"  />
+  <img height="400" src="https://github.com/shahbaz-kamal/interview-prep-hubs/blob/main/assests/dbms.png"  />
 </div>
 
 
